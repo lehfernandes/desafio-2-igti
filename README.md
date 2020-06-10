@@ -1,5 +1,7 @@
 # Desafio referente ao segundo módulo do bootcamp IGTI
 
+O presente repositorio visa apresentar as soluções propostas para este desafio.
+
 ## Enunciado
 Neste desafio serão abordados todos os conceitos apresentados durante a disciplina
 Modelos Preditivos e Séries Temporais (MPT). Para este desafio será utilizada uma versão
